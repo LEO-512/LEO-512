@@ -21,7 +21,8 @@ I build machine-learning and cloud-backed applications, and I like turning messy
 |---|---|
 | **[Apex Chat](https://github.com/LEO-512/Apex-Chat)** | A containerised customer-support chatbot: Flask backend, Nginx load balancer that discovers replicas at runtime, MongoDB with JSON fallback, Firestore mirroring, and a CPU-based autoscaler. |
 | **[Laravel Cinema Booking](https://github.com/LEO-512/laravel-cinema-booking)** | A Laravel 9 cinema ticket booking app with movies, showtimes and an interactive seat map, backed by MySQL. |
-| **[Rainfall Prediction System](https://github.com/LEO-512/RainPrediction-System)** | Exploratory ML on 366 days of weather data — cleaning, outlier handling, encoding and a train/test split in Jupyter. |
+| **[Rainfall Prediction System](https://github.com/LEO-512/RainPrediction-System)** | End-to-end ML on 366 days of weather data — cleaning, EDA, four trained models and an honest evaluation in Jupyter. |
+| **[AI Agents](https://github.com/LEO-512/ai-agents)** | A small set of portable coding agents for OpenCode and Claude Code: reviewer, docs writer, test writer and data analyst. |
 
 ---
 
