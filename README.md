@@ -1,8 +1,8 @@
-# Hi, I'm Lareb Malik 👋
+# Hi, I'm Lareb Zahra Malik 👋
 
 **AI Engineer · Computer Science graduate · Pakistan**
 
-I build machine-learning and cloud-backed applications, and I like turning messy data and half-finished ideas into things that actually run.
+I build machine-learning and cloud-backed applications, and I like turning messy data and half-finished ideas into things that actually run. My biggest obsession is building AI Agents that can help me do the work.
 
 ---
 
@@ -11,7 +11,7 @@ I build machine-learning and cloud-backed applications, and I like turning messy
 - 🤖 Applied AI — retrieval, NLP and practical model deployment
 - ☁️ Cloud-native backends — Docker, load balancing, autoscaling
 - 🧪 Data work — cleaning, EDA and model evaluation
-- 🌱 Currently deepening my MLOps and LLM-application skills
+- 🌱 Currently deepening LLM-application skills and building AI Agents
 
 ---
 
