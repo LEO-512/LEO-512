@@ -2,7 +2,7 @@
 
 **AI Engineer · Computer Science graduate · Pakistan**
 
-I build machine-learning and cloud-backed applications, and I like turning messy data and half-finished ideas into things that actually run. My biggest obsession is building AI Agents that can help me do the work.
+I build machine-learning and cloud-backed applications, and I like turning messy data and half-finished ideas into things that actually run. My biggest obsession nowadays is building AI Agents that can help me get work done.
 
 ---
 
