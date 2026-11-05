@@ -33,7 +33,7 @@ I build machine-learning and cloud-backed applications, and I like turning messy
 
 | Project | What it is |
 |---|---|
-| **[AI Agents](https://github.com/LEO-512/ai-agents)** | A collection of portable coding agents for OpenCode and Claude Code — code reviewer, docs writer, test writer and data analyst — plus **AI News Digest**, a scheduled Windows automation that summarises the five newest AI stories into a formatted Word report every morning. |
+| **[AI Agents](https://github.com/LEO-512/ai-agents)** | A collection of portable coding agents — code reviewer, docs writer, test writer and data analyst — plus **AI News Digest**, a scheduled Windows automation that summarises the five newest AI stories into a formatted Word report every morning. |
 
 ---
 
